@@ -1,6 +1,7 @@
 Hello! Today I solved "Old Sessions" from Cylab's (formerly PicoCTF) Web Exploitation! And this will be my first writeup explaining the steps on how to do it!
 
 This is the challenge (https://learn.cylabacademy.org/library/739?page=1&category=1&workspace=true)
+<img width="1358" height="627" alt="image" src="https://github.com/user-attachments/assets/4edd2843-55b7-4842-afeb-190ae7232d3a" />
 
 
 
